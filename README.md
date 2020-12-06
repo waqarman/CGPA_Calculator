@@ -1,6 +1,7 @@
 # Project Idea
 > CGPA Calculator
 
+## Description
 > This CGPA Calculator is the world's most advance and featureful calculator. Most of the features of this application is unseen for rest of the world. 
 
 ## Features
