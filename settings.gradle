@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Advance CGPA Calculator"
+rootProject.name = "Cgpa Calculator"

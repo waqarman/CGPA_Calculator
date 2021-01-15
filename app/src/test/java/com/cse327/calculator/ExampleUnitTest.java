@@ -1,4 +1,4 @@
-package com.kan.advancecgpacalculator;
+package com.cse327.calculator;
 
 import org.junit.Test;
 
